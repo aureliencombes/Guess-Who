@@ -1,8 +1,8 @@
 # features #
 
-lever / baisser les tuiles comme dans un vrai "qui est-ce"
-relever toutes les tuiles pour recommencer une partie
-zoomer
-changer la couleur du plateau
+*raise / lower the tiles as in a real "Guess Who"
+*raise all the tiles to restart a game
+*zoom-in
+*change dock color
 
 [Test it](https://aureliencombes.github.io/Guess_Who_3D/)
